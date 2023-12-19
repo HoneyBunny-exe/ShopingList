@@ -1,6 +1,6 @@
 package com.example.shopinglist.domain
 
-class AddShopItemUseCase {
+class AddShopItemUseCase{
     fun addShopItem(shopItem: ShopItem)
     {
 

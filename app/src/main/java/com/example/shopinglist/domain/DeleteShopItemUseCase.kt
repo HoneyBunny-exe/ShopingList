@@ -1,6 +1,6 @@
 package com.example.shopinglist.domain
 
-class DeleteShopItemUseCase {
+class DeleteShopItemUseCase{
     fun deleteShopItem(shopItem: ShopItem)
     {
 

@@ -1,8 +1,7 @@
 package com.example.shopinglist.domain
 
-class EditShopItemUseCase {
+class EditShopItemUseCase{
     fun editShopItem(shopItem: ShopItem)
     {
-
     }
 }
